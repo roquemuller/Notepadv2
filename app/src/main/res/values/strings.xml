@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notepad v2</string>
+    <string name="no_notes">Nenhuma Nota Cadastrada</string>
+    <string name="menu_insert">Adicionar Nota</string>
+    <string name="menu_delete">Apagar Nota</string>
+    <string name="title">Nome: </string>
+    <string name="body">Corpo da Nota: </string>
+    <string name="confirm">Confirma</string>
+    <string name="edit_note">Editar Nota</string>
+
+</resources>
